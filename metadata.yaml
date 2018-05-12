@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25500'
     url: http://www.gutenberg.org/2009/agents/25500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22718#Cathedrals-and-Cloisters-of-the-South-of-France-Volume-1
 gutenberg_bookshelf:
 - Architecture
 - France
